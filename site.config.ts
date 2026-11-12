@@ -6,7 +6,7 @@ export const site: SiteConfig = {
   category: "Chocolate covered strawberries",
   schemaType: "FoodEstablishment",
   area: "Brampton, ON",
-  siteUrl: "https://fruits-by-fareeha.vercel.app",
+  siteUrl: "https://fruits-by-fareeha-ca.vercel.app",
 
   theme: {
     preset: "bakery-pastel",
